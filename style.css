@@ -291,7 +291,7 @@ figure img {
 figcaption {
     position: absolute;
     width: 10rem;
-    left: -16rem;
+    left: -15rem;
 }
 
 .gallery figcaption {
@@ -391,6 +391,10 @@ footer {
     :root {
         --border-width: 2px;
         font-size: 8px;
+    }
+
+    figcaption {
+        font-size: 1.3rem;
     }
 
     h1.main-title {
